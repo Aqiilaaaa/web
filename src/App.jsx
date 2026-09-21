@@ -1,11 +1,11 @@
 import { useState } from "react";
 
-import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
-import Services from "./components/Services";
-import HowItWorks from "./components/HowItWorks";
-import Documentation from "./components/Documentation";
-import About from "./components/About";
+import Navbar from "./components/navbar";
+import Hero from "./components/hero";
+import Services from "./components/services";
+import HowItWorks from "./components/howitworks";
+import Documentation from "./components/documentation";
+import About from "./components/about";
 import CTA from "./components/CTA";
 import Footer from "./components/Footer";
 
